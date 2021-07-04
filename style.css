@@ -43,6 +43,11 @@ p{
     background-repeat: no-repeat;
     background-position: right;
 }
+
+.dream-text{
+    padding-right: 120px;
+}
+
 .experience-area{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
@@ -64,6 +69,9 @@ p{
     border-left: 7px solid;
     border-image: linear-gradient(blue, cyan);
     border-image-slice: 1;
+}
+footer{
+    padding-bottom: 30px;
 }
 footer p {
     text-align: center;
